@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Brief Introduction Selenium Remote Contro_4d8fe0</name>
+   <tag></tag>
+   <elementGuidId>ac6c02da-4de0-4861-96ce-24d8998504b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-1']/div/div/ul[2]/li[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2eaee9ae-18f0-49f2-a4b4-5ab982d4d40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#11</value>
+      <webElementGuid>dd31b2d5-76d6-4cd9-9b73-e59fa2a61a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brief Introduction Selenium Remote Control (Selenium RC)</value>
+      <webElementGuid>ac02ac02-e532-4ffc-962c-b7a86e8a41aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-1&quot;)/div[@class=&quot;entry-content-wrap&quot;]/div[@class=&quot;entry-content single-content&quot;]/ul[2]/li[11]/a[1]</value>
+      <webElementGuid>cc690af0-b8ff-464f-a31a-1e54a3168620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-1']/div/div/ul[2]/li[11]/a</value>
+      <webElementGuid>0b71bcc8-448a-4825-b0b7-408b50abaac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Brief Introduction Selenium Remote Control (Selenium RC)')]</value>
+      <webElementGuid>2ed1eb55-9ae3-4db8-aa2d-ad8b2fd05e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brief Introduction Selenium IDE'])[1]/following::a[1]</value>
+      <webElementGuid>e678b31b-8f0e-4c5c-b081-54cb98fa1a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='So, Why the Name Selenium?'])[1]/following::a[2]</value>
+      <webElementGuid>85844760-fef5-4ddb-86ba-4352783c45b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brief Introduction WebDriver'])[1]/preceding::a[1]</value>
+      <webElementGuid>3281d5a2-740a-4913-8477-34265cb8cd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Grid'])[2]/preceding::a[2]</value>
+      <webElementGuid>c3cd2977-7e3b-44f4-a93e-1cb7a4ff4b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Brief Introduction Selenium Remote Control (Selenium RC)']/parent::*</value>
+      <webElementGuid>7ab1f96f-e81b-4a99-a6bd-48c177510d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#11')]</value>
+      <webElementGuid>c1676bf1-be6c-4240-aeb3-accf5501ae73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[11]/a</value>
+      <webElementGuid>3bd49a16-ce3e-4e28-b047-2d18beaf899c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#11' and (text() = 'Brief Introduction Selenium Remote Control (Selenium RC)' or . = 'Brief Introduction Selenium Remote Control (Selenium RC)')]</value>
+      <webElementGuid>76e99980-7a2f-41a7-aa1b-99c49966c003</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

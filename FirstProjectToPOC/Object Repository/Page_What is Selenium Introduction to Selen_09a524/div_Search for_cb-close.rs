@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search for_cb-close</name>
+   <tag></tag>
+   <elementGuidId>7aa550de-7aaa-4671-846d-170f18097e82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbox']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cb-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ec592ed-6408-41ed-b633-e770fe704f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cb-close</value>
+      <webElementGuid>44a66a03-033a-4ed7-8660-92e13f5173b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbox&quot;)/div[@class=&quot;cb-box__wrapper-center_modal&quot;]/div[@class=&quot;cb-box__wrapper-table&quot;]/div[@class=&quot;cb-box__wrapper-row&quot;]/div[@class=&quot;cb-box cb-box__type-center_modal cb-box__layout-single cb-box__layout-center cb-ready&quot;]/div[@class=&quot;cb-close&quot;]</value>
+      <webElementGuid>44d84b20-f9f9-4fe4-bcba-a4a3035de1ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbox']/div/div/div/div/div</value>
+      <webElementGuid>9afbb206-5b09-44af-9319-e9d29242bbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div</value>
+      <webElementGuid>306f596c-27db-4c21-bca6-fbaf86ec392f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
